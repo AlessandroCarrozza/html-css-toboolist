@@ -128,7 +128,7 @@ header h1{
 .list-text.three::after{
     content: "Q1 Goals";
     font-size: 0.7em;
-    background-color: #A31ACB;
+    background-color: #ac5ce5;
     color: white;
     padding: 5px 8px;
     border-radius: 15px;
@@ -137,7 +137,7 @@ header h1{
 .list-text.four::after{
     content: "Recruiting";
     font-size: 0.7em;
-    background-color: #3FA796;
+    background-color: #2ac6ab;
     color: white;
     padding: 5px 8px;
     border-radius: 15px;
@@ -146,7 +146,7 @@ header h1{
 .list-text.five::after{
     content: "Mobile";
     font-size: 0.7em;
-    background-color: orange;
+    background-color: #f99b04;
     color: white;
     padding: 5px 8px;
     border-radius: 15px;
@@ -155,7 +155,7 @@ header h1{
 .list-text.seven::after{
     content: "Website";
     font-size: 0.7em;
-    background-color: palevioletred;
+    background-color: #eb4a9c;
     color: white;
     padding: 5px 8px;
     border-radius: 15px;
@@ -164,7 +164,7 @@ header h1{
 .list-text.eight::after{
     content: "Sales";
     font-size: 0.7em;
-    background-color: limegreen;
+    background-color: #a4d012;
     color: white;
     padding: 5px 8px;
     border-radius: 15px;
