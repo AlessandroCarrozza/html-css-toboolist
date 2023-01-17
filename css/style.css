@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: #3cb4fc; 
+}
+
+header{
+    height: 120px;
+    width: 100%;
+    background-color: white;
+}
+
+header h1{
+    display: inline-block;
+    font-size: 4em;
+}
+
+.logo-title img, .logo-title h1{
+    vertical-align: middle;
+}
+
+.logo-title{
+    line-height: 120px;
+    padding-left: 50px;
+}
