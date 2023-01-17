@@ -67,7 +67,8 @@ header h1{
 }
 
 .list-text{
-    font-size: 1.3em;
+    font-size: 1.2em;
+    margin: 12px 0;
 }
 
 .list-box{
@@ -76,4 +77,26 @@ header h1{
 
 .list-element{
     padding: 10px 0;
+}
+
+.list-element h1::before{
+    content: "\2713  ";
+}
+
+.list-text.yes span{
+    color: green;
+    border: 1px solid green;
+}
+
+.list-text.not span{
+    color: red;
+    border: 1px solid red;
+}
+
+.list-text span{
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    border-radius: 50%;
 }
