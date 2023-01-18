@@ -90,6 +90,7 @@ header h1{
 .list-text.yes span{
     color: green;
     border: 1px solid green;
+    font-size: 15px;
 }
 
 .list-text.not span{
@@ -99,10 +100,11 @@ header h1{
 
 .list-text span{
     display: inline-block;
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
     text-align: center;
     border-radius: 50%;
+    line-height: 20px;
 }
 
 /* assegno un contentuto per ogni list-text */
